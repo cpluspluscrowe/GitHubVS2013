@@ -1,0 +1,2 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\TransCAD try 1\TransCAD try 1\bin\Debug\TransCAD try 1.exe.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\TransCAD try 1\TransCAD try 1\obj\Debug\TransCAD try 1.csprojResolveAssemblyReference.cache

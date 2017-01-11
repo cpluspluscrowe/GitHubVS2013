@@ -1,0 +1,29 @@
+﻿Build started 1/10/2017 12:49:35 PM.
+     1>Project "C:\Users\CCrowe\documents\visual studio 2013\Projects\Find Bad Newly Created Facility Sheets\Find Bad Newly Created Facility Sheets\Find Bad Newly Created Facility Sheets.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Find Bad Newly Created Facility Sheets.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /FUInterop\Interop.Microsoft.Office.Interop.Excel.1.8.dll /analyze- /errorReport:prompt /clr:nostdlib stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Find Bad Newly Created Facility Sheets.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /FUInterop\Interop.Microsoft.Office.Interop.Excel.1.8.dll /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp "Find Bad Newly Created Facility Sheets.cpp"
+         AssemblyInfo.cpp
+         Find Bad Newly Created Facility Sheets.cpp
+     1>Find Bad Newly Created Facility Sheets.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>Find Bad Newly Created Facility Sheets.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>Find Bad Newly Created Facility Sheets.cpp(77): warning C4101: 'e' : unreferenced local variable
+     1>Find Bad Newly Created Facility Sheets.cpp(91): warning C4101: 'e' : unreferenced local variable
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\CCrowe\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CCrowe\documents\visual studio 2013\Projects\Find Bad Newly Created Facility Sheets\Debug\Find Bad Newly Created Facility Sheets.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\CCrowe\documents\visual studio 2013\Projects\Find Bad Newly Created Facility Sheets\Debug\Find Bad Newly Created Facility Sheets.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         "Debug\Find Bad Newly Created Facility Sheets.obj"
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Find Bad Newly Created Facility Sheets.vcxproj -> C:\Users\CCrowe\documents\visual studio 2013\Projects\Find Bad Newly Created Facility Sheets\Debug\Find Bad Newly Created Facility Sheets.exe
+     1>Done Building Project "C:\Users\CCrowe\documents\visual studio 2013\Projects\Find Bad Newly Created Facility Sheets\Find Bad Newly Created Facility Sheets\Find Bad Newly Created Facility Sheets.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.94

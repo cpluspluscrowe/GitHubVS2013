@@ -1,0 +1,10 @@
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Release\CreateWorkbooks.dll
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Release\CreateWorkbooks.pdb
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Release\CreateWorkbooks.dll.manifest
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Release\CreateWorkbooks.vsto
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\obj\Release\CreateWorkbooks.Properties.Resources.resources
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\obj\Release\CreateWorkbooks.csproj.GenerateResource.Cache
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\obj\Release\CreateWorkbooks.dll
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\obj\Release\CreateWorkbooks.pdb

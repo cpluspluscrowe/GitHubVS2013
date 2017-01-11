@@ -1,0 +1,6 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\try_to_make_dllCsharp\try_to_make_dllCsharp\bin\Debug\try_to_make_dllCsharp.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\try_to_make_dllCsharp\try_to_make_dllCsharp\obj\Debug\try_to_make_dllCsharp.csprojResolveAssemblyReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\try_to_make_dllCsharp\try_to_make_dllCsharp\obj\Debug\try_to_make_dllCsharp.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\try_to_make_dllCsharp\try_to_make_dllCsharp\bin\Debug\try_to_make_dllCsharp.dll.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\try_to_make_dllCsharp\try_to_make_dllCsharp\bin\Debug\try_to_make_dllCsharp.dll
+c:\users\ccrowe\documents\visual studio 2013\Projects\try_to_make_dllCsharp\try_to_make_dllCsharp\obj\Debug\try_to_make_dllCsharp.dll

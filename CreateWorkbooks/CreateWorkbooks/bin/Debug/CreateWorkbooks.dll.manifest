@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CreateWorkbooks.dll" version="1.0.0.0" publicKeyToken="092217fe2482d40f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description xmlns="urn:schemas-microsoft-com:asm.v1">CreateWorkbooks</description>
+  <application />
+  <entryPoint>
+    <co.v1:customHostSpecified />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.CSharp" version="4.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Tools.Excel" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Tools.v4.0.Framework" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualStudio.Tools.Applications.Runtime" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CreateWorkbooks.dll" size="150016">
+      <assemblyIdentity name="CreateWorkbooks" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>CmcOzIDaF2ReF4EaK4JGnzTDtZQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Office.Tools.Common.v4.0.Utilities.dll" size="32664">
+      <assemblyIdentity name="Microsoft.Office.Tools.Common.v4.0.Utilities" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>CtnCtseaMyfROIGe0ENdGO6arHg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <vstav3:addIn xmlns:vstav3="urn:schemas-microsoft-com:vsta.v3">
+    <vstav3:entryPointsCollection>
+      <vstav3:entryPoints>
+        <vstav3:entryPoint class="CreateWorkbooks.ThisAddIn">
+          <assemblyIdentity name="CreateWorkbooks" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+        </vstav3:entryPoint>
+      </vstav3:entryPoints>
+    </vstav3:entryPointsCollection>
+    <vstav3:update enabled="true">
+      <vstav3:expiration maximumAge="7" unit="days" />
+    </vstav3:update>
+    <vstav3:application>
+      <vstov4:customizations xmlns:vstov4="urn:schemas-microsoft-com:vsto.v4">
+        <vstov4:customization>
+          <vstov4:appAddIn application="Excel" loadBehavior="3" keyName="CreateWorkbooks">
+            <vstov4:friendlyName>CreateWorkbooks</vstov4:friendlyName>
+            <vstov4:description>CreateWorkbooks</vstov4:description>
+            <vstov4.1:ribbonTypes xmlns:vstov4.1="urn:schemas-microsoft-com:vsto.v4.1" />
+          </vstov4:appAddIn>
+        </vstov4:customization>
+      </vstov4:customizations>
+    </vstav3:application>
+  </vstav3:addIn>
+<publisherIdentity name="CN=INTRANET\ccrowe" issuerKeyHash="5bbecf533d59c3a2b644ab84436fab89e9f09187" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>FK++7YNx/JXI/PhuVkql5/YnJz8=</DigestValue></Reference></SignedInfo><SignatureValue>bqHGz+M9MNqm+ala5QwV4b/v5o0Sw+uwz6KxhydP41Y/1qp1uxc95meeWbhatJBr6KmbyrSv7Bypg2GskE5Rm481+qAZD7rWDGkn80OqPpxuC6YTNEIjHu4VwpqCWb8Lj+3zOseSWa0Kw+BFCMENVJWNdiaoYe54gBn1uln/zJ8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tdGPqeWibpEKr+Csad92mGeQDsOV9e8xw5xrPXUXM1Kzc8ob7LfrcIxitZkYPzJuL6jc0RFOwjff0P2OpWbAKD4fkHFByPcydPVtgMknxs7S7Qu44cntDH/u+K3VG190PH8ib3dNDFvnsFiD17t+2S/4FOXgnwvdlc0Mmp1fOyE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3f2727f6e7a54a566ef8fcc895fc7183edbeaf14" Description="" Url=""><as:assemblyIdentity name="CreateWorkbooks.dll" version="1.0.0.0" publicKeyToken="092217fe2482d40f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=INTRANET\ccrowe</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>JLZ1Exx120kzRU8v/QhKuBtjhyE=</DigestValue></Reference></SignedInfo><SignatureValue>XOmGfwiHXAlt1lUJLD6CKTB5q19MQ4XHSsnOS5vbbOm6TvYWIOWf1ws+p1vvLPVY6rWwjDaOsgrNgS/4fF7w2IaNne8PxFJ1dTkBmcwSmYVfzvwSeEMdnMel730dXBL6KnTPCVhmva6xsKHw4mwm+zX9WeyQ/EvqR30uHkIxU+w=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tdGPqeWibpEKr+Csad92mGeQDsOV9e8xw5xrPXUXM1Kzc8ob7LfrcIxitZkYPzJuL6jc0RFOwjff0P2OpWbAKD4fkHFByPcydPVtgMknxs7S7Qu44cntDH/u+K3VG190PH8ib3dNDFvnsFiD17t+2S/4FOXgnwvdlc0Mmp1fOyE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQHExmYbEN7apAtGv8XA9IiTANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4ASQBOAFQAUgBBAE4ARQBUAFwAYwBjAHIAbwB3AGUwHhcNMTYwNzEyMTY0NzE0WhcNMTcwNzEyMjI0NzE0WjApMScwJQYDVQQDHh4ASQBOAFQAUgBBAE4ARQBUAFwAYwBjAHIAbwB3AGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALXRj6nlom6RCq/grGnfdphnkA7DlfXvMcOcaz11FzNSs3PKG+y363CMYrWZGD8ybi+o3NERTsI339D9jqVmwCg+H5BxQcj3MnT1bYDJJ8bO0u0LuOHJ7Qx/7vit1RtfdDx/Im93TQxb57BYg9e7ftkv+BTl4J8L3ZXNDJqdXzshAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAUp86hxprBLSicL2upYohtDtTGLSEX8WCADJp7qOGkSHC5WkAqC2mhmjiXSy4ODL/z5Ra27Vu1GHmzodsNgG16CGraZOl4riUiu1G7hjfaqKy44uB72b/RkEUQA+4jkYdWBB1wTdrc9JeWMATCziktRZyaBFjgWc6ZYVPmzCrAdk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,7 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUniqueLocations Pierre\GetUniqueLocations Pierre\bin\Debug\GetUniqueLocations Pierre.exe.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUniqueLocations Pierre\GetUniqueLocations Pierre\obj\Debug\GetUniqueLocations Pierre.csprojResolveAssemblyReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUniqueLocations Pierre\GetUniqueLocations Pierre\obj\Debug\GetUniqueLocations Pierre.csproj.ResolveComReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUniqueLocations Pierre\GetUniqueLocations Pierre\bin\Debug\GetUniqueLocations Pierre.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUniqueLocations Pierre\GetUniqueLocations Pierre\bin\Debug\GetUniqueLocations Pierre.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUniqueLocations Pierre\GetUniqueLocations Pierre\obj\Debug\GetUniqueLocations Pierre.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUniqueLocations Pierre\GetUniqueLocations Pierre\obj\Debug\GetUniqueLocations Pierre.pdb

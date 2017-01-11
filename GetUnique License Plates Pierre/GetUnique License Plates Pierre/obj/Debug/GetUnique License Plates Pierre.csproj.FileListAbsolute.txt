@@ -1,0 +1,7 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUnique License Plates Pierre\GetUnique License Plates Pierre\bin\Debug\GetUnique License Plates Pierre.exe.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUnique License Plates Pierre\GetUnique License Plates Pierre\obj\Debug\GetUnique License Plates Pierre.csprojResolveAssemblyReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUnique License Plates Pierre\GetUnique License Plates Pierre\obj\Debug\GetUnique License Plates Pierre.csproj.ResolveComReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUnique License Plates Pierre\GetUnique License Plates Pierre\bin\Debug\GetUnique License Plates Pierre.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUnique License Plates Pierre\GetUnique License Plates Pierre\bin\Debug\GetUnique License Plates Pierre.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUnique License Plates Pierre\GetUnique License Plates Pierre\obj\Debug\GetUnique License Plates Pierre.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\GetUnique License Plates Pierre\GetUnique License Plates Pierre\obj\Debug\GetUnique License Plates Pierre.pdb

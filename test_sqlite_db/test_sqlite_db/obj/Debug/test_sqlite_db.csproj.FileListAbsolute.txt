@@ -1,0 +1,14 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\test_sqlite_db.exe.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\obj\Debug\test_sqlite_db.csprojResolveAssemblyReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\test_sqlite_db.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\test_sqlite_db.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\EntityFramework.dll
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\System.Data.SQLite.dll
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\EntityFramework.xml
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\bin\Debug\System.Data.SQLite.xml
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\obj\Debug\test_sqlite_db.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\test_sqlite_db\test_sqlite_db\obj\Debug\test_sqlite_db.pdb

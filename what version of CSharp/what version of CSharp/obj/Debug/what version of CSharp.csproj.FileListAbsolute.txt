@@ -1,0 +1,6 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\what version of CSharp\what version of CSharp\bin\Debug\what version of CSharp.exe.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\what version of CSharp\what version of CSharp\bin\Debug\what version of CSharp.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\what version of CSharp\what version of CSharp\bin\Debug\what version of CSharp.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\what version of CSharp\what version of CSharp\obj\Debug\what version of CSharp.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\what version of CSharp\what version of CSharp\obj\Debug\what version of CSharp.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\what version of CSharp\what version of CSharp\obj\Debug\what version of CSharp.csprojResolveAssemblyReference.cache

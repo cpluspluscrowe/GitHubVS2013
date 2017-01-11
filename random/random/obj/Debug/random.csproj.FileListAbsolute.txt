@@ -1,0 +1,6 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\random\random\bin\Debug\random.exe.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\random\random\bin\Debug\random.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\random\random\bin\Debug\random.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\random\random\obj\Debug\random.csprojResolveAssemblyReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\random\random\obj\Debug\random.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\random\random\obj\Debug\random.pdb

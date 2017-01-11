@@ -1,0 +1,7 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\Replace Worksheets\Replace Worksheets\bin\Debug\Replace Worksheets.exe.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\Replace Worksheets\Replace Worksheets\bin\Debug\Replace Worksheets.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\Replace Worksheets\Replace Worksheets\bin\Debug\Replace Worksheets.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\Replace Worksheets\Replace Worksheets\obj\Debug\Replace Worksheets.csproj.ResolveComReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\Replace Worksheets\Replace Worksheets\obj\Debug\Replace Worksheets.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\Replace Worksheets\Replace Worksheets\obj\Debug\Replace Worksheets.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\Replace Worksheets\Replace Worksheets\obj\Debug\Replace Worksheets.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Debug\CreateWorkbooks.dll
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Debug\CreateWorkbooks.pdb
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Debug\CreateWorkbooks.dll.manifest
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Debug\CreateWorkbooks.vsto
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\obj\Debug\CreateWorkbooks.csprojResolveAssemblyReference.cache
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\obj\Debug\CreateWorkbooks.Properties.Resources.resources
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\obj\Debug\CreateWorkbooks.csproj.GenerateResource.Cache
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\obj\Debug\CreateWorkbooks.dll
+C:\Users\CCrowe\Documents\Visual Studio 2013\Projects\CreateWorkbooks\CreateWorkbooks\obj\Debug\CreateWorkbooks.pdb

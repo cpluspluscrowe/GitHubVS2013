@@ -1,0 +1,7 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\Pierre License Plate Counts\Pierre License Plate Counts\bin\Debug\Pierre License Plate Counts.exe.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\Pierre License Plate Counts\Pierre License Plate Counts\obj\Debug\Pierre License Plate Counts.csproj.ResolveComReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\Pierre License Plate Counts\Pierre License Plate Counts\bin\Debug\Pierre License Plate Counts.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\Pierre License Plate Counts\Pierre License Plate Counts\bin\Debug\Pierre License Plate Counts.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\Pierre License Plate Counts\Pierre License Plate Counts\obj\Debug\Pierre License Plate Counts.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\Pierre License Plate Counts\Pierre License Plate Counts\obj\Debug\Pierre License Plate Counts.pdb
+C:\Users\CCrowe\documents\visual studio 2013\Projects\Pierre License Plate Counts\Pierre License Plate Counts\obj\Debug\Pierre License Plate Counts.csprojResolveAssemblyReference.cache

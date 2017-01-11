@@ -1,0 +1,6 @@
+c:\users\ccrowe\documents\visual studio 2013\Projects\Test Ref Passing\Test Ref Passing\bin\Debug\Test Ref Passing.exe.config
+c:\users\ccrowe\documents\visual studio 2013\Projects\Test Ref Passing\Test Ref Passing\bin\Debug\Test Ref Passing.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\Test Ref Passing\Test Ref Passing\bin\Debug\Test Ref Passing.pdb
+c:\users\ccrowe\documents\visual studio 2013\Projects\Test Ref Passing\Test Ref Passing\obj\Debug\Test Ref Passing.csprojResolveAssemblyReference.cache
+c:\users\ccrowe\documents\visual studio 2013\Projects\Test Ref Passing\Test Ref Passing\obj\Debug\Test Ref Passing.exe
+c:\users\ccrowe\documents\visual studio 2013\Projects\Test Ref Passing\Test Ref Passing\obj\Debug\Test Ref Passing.pdb

@@ -1,0 +1,14 @@
+﻿Build started 1/10/2017 2:07:01 PM.
+     1>Project "c:\Users\CCrowe\documents\visual studio 2013\Projects\try_to_use_Csharp_dll\try_to_use_Csharp_dll\try_to_use_Csharp_dll.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"c:\Users\CCrowe\documents\visual studio 2013\Projects\try_to_make_dllCsharp\try_to_make_dllCsharp\bin\Debug\try_to_make_dllCsharp.dll" /analyze- /errorReport:prompt /clr:nostdlib Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ccrowe\documents\visual studio 2013\Projects\try_to_use_Csharp_dll\Debug\try_to_use_Csharp_dll.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ccrowe\documents\visual studio 2013\Projects\try_to_use_Csharp_dll\Debug\try_to_use_Csharp_dll.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Source.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         try_to_use_Csharp_dll.vcxproj -> c:\users\ccrowe\documents\visual studio 2013\Projects\try_to_use_Csharp_dll\Debug\try_to_use_Csharp_dll.exe
+     1>Done Building Project "c:\Users\CCrowe\documents\visual studio 2013\Projects\try_to_use_Csharp_dll\try_to_use_Csharp_dll\try_to_use_Csharp_dll.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.93
