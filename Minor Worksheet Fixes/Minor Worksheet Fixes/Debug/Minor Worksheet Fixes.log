@@ -1,0 +1,20 @@
+﻿Build started 1/12/2017 1:04:48 PM.
+     1>Project "C:\Users\CCrowe\documents\visual studio 2013\Projects\Minor Worksheet Fixes\Minor Worksheet Fixes\Minor Worksheet Fixes.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Minor Worksheet Fixes.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /FUInterop\Interop.Microsoft.Office.Interop.Excel.1.8.dll /analyze- /errorReport:prompt /clr:nostdlib "Minor Worksheet Fixes.cpp"
+         Minor Worksheet Fixes.cpp
+     1>Minor Worksheet Fixes.cpp(138): warning C4101: 'e' : unreferenced local variable
+     1>Minor Worksheet Fixes.cpp(145): warning C4101: 'e2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CCrowe\documents\visual studio 2013\Projects\Minor Worksheet Fixes\Debug\Minor Worksheet Fixes.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\local\boost_1_63_0\lib32-msvc-12.0" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\CCrowe\documents\visual studio 2013\Projects\Minor Worksheet Fixes\Debug\Minor Worksheet Fixes.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         "Debug\Minor Worksheet Fixes.obj"
+         Debug\Native.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Minor Worksheet Fixes.vcxproj -> C:\Users\CCrowe\documents\visual studio 2013\Projects\Minor Worksheet Fixes\Debug\Minor Worksheet Fixes.exe
+     1>Done Building Project "C:\Users\CCrowe\documents\visual studio 2013\Projects\Minor Worksheet Fixes\Minor Worksheet Fixes\Minor Worksheet Fixes.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.31
